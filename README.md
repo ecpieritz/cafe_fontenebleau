@@ -1,4 +1,4 @@
-# :fast_forward: Cafe Fontenebleau :rewind:
+<h1 align = "center"> :fast_forward: Cafe Fontenebleau :rewind: </h1>
 
 ## 🖥 Preview
 <p align = "center">
