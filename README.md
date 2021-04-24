@@ -2,7 +2,7 @@
 
 ## 🖥 Preview
 <p align = "center">
-  <img src = "https://scontent.fbnu2-1.fna.fbcdn.net/v/t1.0-9/117736817_1699557133531964_3933401341273229308_o.jpg?_nc_cat=103&_nc_sid=0debeb&_nc_eui2=AeE4T99MfcjDCBYeLXl8h1hauWf-H2NkFPO5Z_4fY2QU8ycaY-jW0D8YAK_wRWDfcuFsS9pWOykRIwXE4HDoM7g9&_nc_ohc=caFXHyG_NtcAX8lJPQt&_nc_ht=scontent.fbnu2-1.fna&oh=f23925f2a4f9f43092abefeffa63c79d&oe=5F58D0AE" width = "700">
+  <img src = "https://github.com/ecpieritz/cafe_fontenebleau/blob/master/cafe_fontenebleau/imagens/cafe-print.jpg?raw=true" width = "800">
 </p>
 
 ---
