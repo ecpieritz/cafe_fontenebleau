@@ -20,7 +20,7 @@ First and simple project of the Web Developer course taught by iMedia at Udemy.c
 
 ## 🚀 How to execute the project
 #### Clone the repository
-git clone https://github.com/EPieritz/cafe_fontenebleau.git
+git clone https://github.com/ecpieritz/cafe_fontenebleau.git
 
 #### Enter directory
 `cd cafe_fontenebleau`
